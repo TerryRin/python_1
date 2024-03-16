@@ -1,1 +1,1 @@
-print(f'0 francs')
+print(f'0 francs!!!')
